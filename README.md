@@ -1,4 +1,3 @@
-## Hi there 👋
 <!--
 **khm6211/khm6211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
