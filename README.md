@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=test%20test-nl-test&fontSize=90)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khm6211)](https://github.com/anuraghazra/github-readme-stats)
